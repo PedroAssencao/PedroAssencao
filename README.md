@@ -3,3 +3,9 @@ Atualmente aprendendo **AWS**, **Azure** e **CI/CD**. Com conhecimentos em: **Do
 
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroAssencao&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroAssencao&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroAssencao&theme=dracula)|
 |-----|------|------|
+
+## Projetos Recentes
+
+1. **DazzleBot** — Plataforma de atendimento via WhatsApp com automação por IA, unificação de atendentes, criação de fluxos de bot e dashboards administrativos. Desenvolvido com **ASP.NET (C#), React e SQL Server**.  
+2. **ChatBotIaCore** — Backend para orquestração de chatbots inteligentes, seguindo **Clean Architecture**, com integração à **API do WhatsApp (Meta)** e **OpenAI**, incluindo processamento de mensagens e arquivos.  
+3. **ChatbotIaJuridico** — Sistema backend para automação de atendimento jurídico via WhatsApp, com processamento de documentos, transcrição de áudio e geração automatizada de petições em **PDF e DOCX**.
